@@ -1,2 +1,2 @@
 # mennonitengemeinde-audio
-An audio website (simple)
+Simple website showing one audio mp3
